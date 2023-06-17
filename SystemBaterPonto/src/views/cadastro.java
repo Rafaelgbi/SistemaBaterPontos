@@ -189,7 +189,7 @@ public class cadastro extends javax.swing.JFrame {
 
         jLabel17.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Img/Sistem Ponto (2).png"))); // NOI18N
         jLabel17.setText("Img");
-        getContentPane().add(jLabel17, new org.netbeans.lib.awtextra.AbsoluteConstraints(-10, 0, -1, -1));
+        getContentPane().add(jLabel17, new org.netbeans.lib.awtextra.AbsoluteConstraints(-5, 0, 920, 500));
 
         jMenu1.setText("Menu");
         jMenu1.addActionListener(new java.awt.event.ActionListener() {
