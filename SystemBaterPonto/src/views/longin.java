@@ -79,7 +79,7 @@ public class longin extends javax.swing.JFrame {
             }
         });
         getContentPane().add(jButton1);
-        jButton1.setBounds(230, 240, 90, 30);
+        jButton1.setBounds(90, 180, 90, 30);
 
         jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Img/Sistem Ponto (1).png"))); // NOI18N
         jLabel3.setText("Img");
